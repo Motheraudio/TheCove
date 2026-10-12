@@ -364,10 +364,10 @@ also maps the sequenced notes onto the current ROOT / SCALE as they play (the st
 kits are never quantized).
 
 Available scales: chromatic (CHR), major (MAJ), natural minor (MIN), Dorian (DOR),
-Mixolydian (MIX), major pentatonic (PEN), minor pentatonic (MPEN), harmonic minor
-(HARM), Phrygian (PHRY), Lydian (LYD), Locrian (LOC), ascending melodic minor (MEL),
+Hirajoshi (HIRA), major pentatonic (PEN), minor pentatonic (MPEN), harmonic minor
+(HARM), Phrygian (PHRY), In-sen (INSEN), Locrian (LOC), Hungarian minor (HUNG),
 minor blues (BLUES), whole tone (WHOLE), half-whole diminished (DIMHW), and
-whole-half diminished (DIMWH). Scales with other than seven notes continue across
+double harmonic (DHARM). Scales with other than seven notes continue across
 the white keys without repeating notes; their roots need not fall on every C key.
 Drum kits and incoming MIDI keep their own note mapping.
 
